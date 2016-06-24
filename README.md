@@ -1,2 +1,2 @@
 # kDoKodu
-kurs z kobietydokodu.pl
+kurs ze strony kobietydokodu.pl
